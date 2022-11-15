@@ -1,0 +1,142 @@
+{
+  "title": "Frontend Developer",
+  "about": "About",
+  "description": "Since my childhood I've been passionate about software development and IT, I fell in love with these disciplines which I would like to orient myself professionally. My constant desire for growth, with the skills acquired during my experiences in multiple European countries, and my tenacity, make me a person today experienced and determined to achieve his goals.",
+  "workExp": {
+    "name": "Professional Experiences",
+    "list": [
+      {
+        "id": 1,
+        "date": "2021 - today",
+        "title": "Frontend developer - Mentorship",
+        "provider": {
+          "text": "Booking.com",
+          "link": "https://www.booking.com/"
+        },
+        "place": "Lille, France"
+      },
+      {
+        "id": 2,
+        "date": "2019 - today",
+        "title": "Senior Guest Specialist",
+        "provider": {
+          "text": "Booking.com",
+          "link": "https://www.booking.com/"
+        },
+        "place": "Lille, France"
+      },
+      {
+        "id": 3,
+        "date": "2018 - 2021",
+        "title": "Guest Specialist",
+        "provider": {
+          "text": "Booking.com",
+          "link": "https://www.booking.com/"
+        },
+        "place": "Lille, France"
+      },
+      {
+        "id": 4,
+        "date": "2015 - 2017",
+        "title": "Assistant Manager",
+        "provider": {
+          "text": "Room Mate Aitana Hotel ****",
+          "link": "https://room-matehotels.com/en/aitana/"
+        },
+        "place": "Amsterdam, The Netherlands"
+      }
+    ]
+  },
+  "eduExp": {
+    "name": "Education",
+    "list": [
+      {
+        "id": 1,
+        "date": "2020",
+        "title": "Javascript",
+        "provider": {
+          "text": "Udemy Alumni",
+          "link": "https://www.udemy.com/"
+        },
+        "place": "Booking.com"
+      },
+      {
+        "id": 2,
+        "date": "2020",
+        "title": "CSS",
+        "provider": {
+          "text": "Linkedin learning",
+          "link": "https://www.linkedin.com/"
+        },
+        "place": "Booking.com"
+      },
+      {
+        "id": 3,
+        "date": "2020",
+        "title": "HTML",
+        "provider": {
+          "text": "Linkedin learning",
+          "link": "https://www.linkedin.com/"
+        },
+        "place": "Booking.com"
+      },
+      {
+        "id": 4,
+        "date": "2020",
+        "title": "Java/Python",
+        "provider": {
+          "text": "Udemy Alumni",
+          "link": "https://www.udemy.com/"
+        },
+        "place": "Booking.com"
+      },
+      {
+        "id": 5,
+        "date": "2018",
+        "title": "SST training (First aid course)",
+        "provider": {
+          "text": "Booking.com",
+          "link": "https://www.booking.com/"
+        },
+        "place": "Lille, France"
+      },
+      {
+        "id": 6,
+        "date": "2017",
+        "title": "BHV training (First aid and fire safety)",
+        "provider": {
+          "text": "KLS/Van den Berg",
+          "link": "https://www.klsvandenberg.nl/"
+        },
+        "place": "Amsterdam, The Netherlands"
+      },
+      {
+        "id": 7,
+        "date": "2012",
+        "title": "Technological scientific high school",
+        "provider": {
+          "text": "I.I.S.S. S. Mottura",
+          "link": "https://www.istitutomottura.it/"
+        },
+        "place": "Caltanissetta - Italy"
+      }
+    ]
+  },
+  "details": "Details",
+  "skills": "Design & Coding",
+  "languagesTrad": "Languages",
+  "languages": [
+    {
+      "lang": "Italian",
+      "level": "Mother tongue"
+    },
+    {
+      "lang": "French",
+      "level": "Mother tongue"
+    },
+    {
+      "lang": "English",
+      "level": "Fluent"
+    }
+  ]
+}
